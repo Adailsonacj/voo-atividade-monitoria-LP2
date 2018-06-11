@@ -1,3 +1,5 @@
+package voo;
+
 public class Voo {
 
     private int[] assentos = new int[100];
